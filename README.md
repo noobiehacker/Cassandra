@@ -1,4 +1,4 @@
 cassandra
 =========
 
-My own personal butler
+My own personal maid
